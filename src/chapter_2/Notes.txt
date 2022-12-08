@@ -4,3 +4,5 @@ for the book
 
 chaoter 1 is good 
 keep working on chapter 2
+more fun 
+more java
